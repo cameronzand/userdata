@@ -1,0 +1,63 @@
+// .form {
+// 	max-height: 400px;
+// 	max-width: 300px;
+// 	display: inline;
+// }
+
+.box {
+	height: 450px;
+	width: 400px;
+	//border: 1px solid black;
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+.picture {
+	height: 200px;
+	width: 250px;
+	margin-left: 80px;
+}
+
+.center {
+	text-align: center;
+}
+
+.name span {
+	font-size: 20px;
+	border-bottom: 1px solid green;
+}
+
+.phone {
+	margin-top: 5px;
+}
+
+.email {
+
+	margin-left: 95px;
+	margin-top: 10px;
+	color: lightgrey;
+}
+
+.city {
+	text-align: center;
+	//margin-left: 50px;
+}
+
+.street {
+	margin-top: 20px;
+}
+
+
+.cell {
+	text-align: center; 
+	margin-top: 30px;
+	color: transparent;
+   text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+ .blur:hover {
+
+ 	 color: transparent;
+   text-shadow: 0 0 0px green;
+}
+
